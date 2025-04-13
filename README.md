@@ -22,7 +22,9 @@ Welcome to my **pH Scale** project! This is a simple yet visually appealing repr
 
 ## 📷 Preview
 
-*(------------)*
+🔗 **Live Demo:** [Click here to view the project](https://anamshergill.github.io/Ph-Scale-SMIT-Assignment/)
+
+---
 
 ## 💡 Project Structure
 
