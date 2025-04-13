@@ -24,18 +24,22 @@ Welcome to my **pH Scale** project! This is a simple yet visually appealing repr
 
 *(------------)*
 
-## 💡 **Project Structure**
+## 💡 Project Structure
 
-```plaintext
 📁 PH-SCALE/
 ├── 📄 index.html
 └── 📄 style.css
 
-## 📚 **About the pH Scale**
+---
+
+## 📚 About the pH Scale
 
 - **0–6**: Acidic  
 - **7**: Neutral  
 - **8–14**: Basic (Alkaline)  
 
 This scale is a key concept in chemistry to measure how acidic or basic a substance is.
+
+
+
 
